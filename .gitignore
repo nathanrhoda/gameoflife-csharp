@@ -2,13 +2,14 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/src/GameOfLife/GameOfLife.App/bin/Debug/net5.0/GameOfLife.App.deps.json
-/src/GameOfLife/GameOfLife.Domain.Tests/bin/Debug/net5.0
+/src/GameOfLife/GameOfLife.App/bin/*
+/src/GameOfLife/GameOfLife.App/obj
+/src/GameOfLife/GameOfLife.Domain.Tests/bin
 /src/GameOfLife/GameOfLife.Domain.Tests/obj
 /src/GameOfLife/GameOfLife.Tests/obj
 /src/GameOfLife/GameOfLife.Domain/obj
-/src/GameOfLife/GameOfLife.Domain/bin/Debug/netstandard2.1
-/src/GameOfLife/GameOfLife.App/bin/Debug/net5.0
+/src/GameOfLife/GameOfLife.Domain/bin
+/src/GameOfLife/GameOfLife.App/bin
 /src/GameOfLife/GameOfLife.sln.DotSettings.user
-/src/GameOfLife/GameOfLife.App/obj/Debug/net5.0
+/src/GameOfLife/GameOfLife.App/obj
 /src/GameOfLife/.vs/GameOfLife/v16
