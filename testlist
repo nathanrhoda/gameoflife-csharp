@@ -1,0 +1,14 @@
+
+*Test game has 9 cells
+*Test cells that are set to live are live 
+*Test cells set to dead are dead
+
+*Test live cell with less than 2 live neighbours dies (underpopulation)*
+*Test live cell with surronded by 2 dead neighbours return dead neighbours equal to 2*
+
+
+*Test live cell with 2 active neighbourrs returns live equal true
+*Test live cell with > 2 but less than 3 live neighbours lives on (Next generation)
+*Test live cell with > 3 neighbours dies (overpopulation)
+
+* Test dead cell with exactly 3 live neightbours becomes live (reproduction)  

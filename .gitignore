@@ -12,3 +12,6 @@
 /src/GameOfLife.Domain.Tests/obj
 /src/GameOfLife.Domain/bin
 /src/GameOfLife.Domain/obj
+/src/.idea/.idea.GameOfLife/.idea
+/src/.vs/GameOfLife/DesignTimeBuild
+*.user
